@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-05 01:51:52 (UTC)</th>
+        <th colspan=4>2025-05-05 02:14:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 895 | 7745 | 50588 |
-| **:globe_with_meridians: Domains** | 2 | 350 | 4490 | 36193 |
-| **:triangular_flag_on_post: IPs** | 3 | 467 | 3020 | 13499 |
+| **:link: URLs** | 8 | 898 | 7748 | 50591 |
+| **:globe_with_meridians: Domains** | 3 | 351 | 4491 | 36194 |
+| **:triangular_flag_on_post: IPs** | 6 | 470 | 3023 | 13502 |
 | **:1234: SHA256** | 1 | 49 | 326 | 1559 |
-| **:1234: MD5** | 5 | 64 | 440 | 1441 |
+| **:1234: MD5** | 7 | 66 | 442 | 1443 |
 
 </div>
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 428 | 7548 | 66880 |
+| **#phishing** | 5 | 433 | 7553 | 66885 |
 | **#scam** | 0 | 54 | 915 | 7848 |
 | **#opendir** | 0 | 22 | 125 | 654 |
 | **#malware** | 4 | 68 | 1764 | 18748 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 14 |
-| **#2** | [byrne_emmy12099](https://twitter.com/byrne_emmy12099) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 18 |
+| **#2** | [catnap707](https://twitter.com/catnap707) | 5 |
+| **#3** | [byrne_emmy12099](https://twitter.com/byrne_emmy12099) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |

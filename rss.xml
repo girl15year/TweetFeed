@@ -11,6 +11,69 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>66e08d7c151e83eb1d6fc4dae629b8e9</title>
+         <link>https://x.com/skocherhan/status/1919207894987198572</link>
+         <description>@skocherhan | md5 | </description>
+         <guid isPermaLink="false">66e08d7c151e83eb1d6fc4dae629b8e9</guid>
+         <pubDate>Mon, 05 May 2025 01:49:53 -0000</pubDate>
+      </item>
+      <item>
+         <title>44d0053dcb491aa07a5dea4b8cda1893</title>
+         <link>https://x.com/skocherhan/status/1919207894987198572</link>
+         <description>@skocherhan | md5 | </description>
+         <guid isPermaLink="false">44d0053dcb491aa07a5dea4b8cda1893</guid>
+         <pubDate>Mon, 05 May 2025 01:49:53 -0000</pubDate>
+      </item>
+      <item>
+         <title>109.120.179.216</title>
+         <link>https://x.com/skocherhan/status/1919207894987198572</link>
+         <description>@skocherhan | ip | </description>
+         <guid isPermaLink="false">109.120.179.216</guid>
+         <pubDate>Mon, 05 May 2025 01:49:53 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://109.120.179.216/install.enc</title>
+         <link>https://x.com/skocherhan/status/1919207894987198572</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://109.120.179.216/install.enc</guid>
+         <pubDate>Mon, 05 May 2025 01:49:53 -0000</pubDate>
+      </item>
+      <item>
+         <title>172.67.144.43</title>
+         <link>https://x.com/catnap707/status/1919206954657808645</link>
+         <description>@catnap707 | ip | #phishing</description>
+         <guid isPermaLink="false">172.67.144.43</guid>
+         <pubDate>Mon, 05 May 2025 01:46:09 -0000</pubDate>
+      </item>
+      <item>
+         <title>104.21.47.31</title>
+         <link>https://x.com/catnap707/status/1919206954657808645</link>
+         <description>@catnap707 | ip | #phishing</description>
+         <guid isPermaLink="false">104.21.47.31</guid>
+         <pubDate>Mon, 05 May 2025 01:46:09 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://172.67.144.43</title>
+         <link>https://x.com/catnap707/status/1919206954657808645</link>
+         <description>@catnap707 | url | #phishing</description>
+         <guid>http://172.67.144.43</guid>
+         <pubDate>Mon, 05 May 2025 01:46:09 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://apple-juvule.ihtv3.com/account_int/</title>
+         <link>https://x.com/catnap707/status/1919206954657808645</link>
+         <description>@catnap707 | url | #phishing</description>
+         <guid>http://apple-juvule.ihtv3.com/account_int/</guid>
+         <pubDate>Mon, 05 May 2025 01:46:09 -0000</pubDate>
+      </item>
+      <item>
+         <title>apple-juvule.ihtv3.com</title>
+         <link>https://x.com/catnap707/status/1919206954657808645</link>
+         <description>@catnap707 | domain | #phishing</description>
+         <guid isPermaLink="false">apple-juvule.ihtv3.com</guid>
+         <pubDate>Mon, 05 May 2025 01:46:09 -0000</pubDate>
+      </item>
+      <item>
          <title>7c4644e2bf70820a9f935c801d19664f</title>
          <link>https://x.com/skocherhan/status/1919197707941421081</link>
          <description>@skocherhan | md5 | #malware</description>
