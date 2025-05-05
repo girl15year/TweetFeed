@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-05 02:32:25 (UTC)</th>
+        <th colspan=4>2025-05-05 02:50:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 898 | 7748 | 50591 |
-| **:globe_with_meridians: Domains** | 3 | 351 | 4491 | 36194 |
-| **:triangular_flag_on_post: IPs** | 6 | 470 | 3023 | 13502 |
+| **:link: URLs** | 10 | 900 | 7750 | 50593 |
+| **:globe_with_meridians: Domains** | 4 | 352 | 4492 | 36195 |
+| **:triangular_flag_on_post: IPs** | 7 | 471 | 3024 | 13503 |
 | **:1234: SHA256** | 1 | 49 | 326 | 1559 |
-| **:1234: MD5** | 7 | 66 | 442 | 1443 |
+| **:1234: MD5** | 10 | 69 | 445 | 1446 |
 
 </div>
 
@@ -130,7 +130,7 @@ If you like the project, please consider:
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 9 | 46 | 315 |
 | **#banker** | 0 | 0 | 0 | 3 |
-| **#AgentTesla** | 1 | 1 | 116 | 150 |
+| **#AgentTesla** | 4 | 4 | 119 | 153 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
 | **#AsyncRAT** | 0 | 91 | 409 | 1625 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 18 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 25 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 5 |
 | **#3** | [byrne_emmy12099](https://twitter.com/byrne_emmy12099) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
