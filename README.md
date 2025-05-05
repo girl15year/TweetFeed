@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-05 03:43:56 (UTC)</th>
+        <th colspan=4>2025-05-05 04:07:45 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 905 | 7755 | 50598 |
+| **:link: URLs** | 16 | 906 | 7756 | 50599 |
 | **:globe_with_meridians: Domains** | 5 | 353 | 4493 | 36196 |
-| **:triangular_flag_on_post: IPs** | 9 | 473 | 3026 | 13505 |
+| **:triangular_flag_on_post: IPs** | 10 | 474 | 3027 | 13506 |
 | **:1234: SHA256** | 1 | 49 | 326 | 1559 |
-| **:1234: MD5** | 13 | 72 | 448 | 1449 |
+| **:1234: MD5** | 14 | 73 | 449 | 1450 |
 
 </div>
 
@@ -149,7 +149,7 @@ If you like the project, please consider:
 | **#Njrat** | 0 | 0 | 112 | 937 |
 | **#Qakbot** | 0 | 22 | 150 | 560 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
-| **#RedLine** | 0 | 3 | 23 | 104 |
+| **#RedLine** | 3 | 6 | 26 | 107 |
 | **#Remcos** | 0 | 77 | 445 | 1556 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 32 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 35 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 5 |
 | **#3** | [smica83](https://twitter.com/smica83) | 3 |
 | **#4** | [byrne_emmy12099](https://twitter.com/byrne_emmy12099) | 2 |
