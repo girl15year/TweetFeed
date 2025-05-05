@@ -11,6 +11,34 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>f1d4c7d8e3904743d7766af125689935</title>
+         <link>https://x.com/skocherhan/status/1919228800300114314</link>
+         <description>@skocherhan | md5 | #malware</description>
+         <guid isPermaLink="false">f1d4c7d8e3904743d7766af125689935</guid>
+         <pubDate>Mon, 05 May 2025 03:12:58 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://insumosortiz.site</title>
+         <link>https://x.com/skocherhan/status/1919228800300114314</link>
+         <description>@skocherhan | url | #malware</description>
+         <guid>http://insumosortiz.site</guid>
+         <pubDate>Mon, 05 May 2025 03:12:58 -0000</pubDate>
+      </item>
+      <item>
+         <title>insumosortiz.site</title>
+         <link>https://x.com/skocherhan/status/1919228800300114314</link>
+         <description>@skocherhan | domain | #malware</description>
+         <guid isPermaLink="false">insumosortiz.site</guid>
+         <pubDate>Mon, 05 May 2025 03:12:58 -0000</pubDate>
+      </item>
+      <item>
+         <title>4105ec3dc57e1dc3929ec0be0054aad5</title>
+         <link>https://x.com/doc_guard/status/1877809443703783499</link>
+         <description>@doc_guard | md5 | #phishing</description>
+         <guid isPermaLink="false">4105ec3dc57e1dc3929ec0be0054aad5</guid>
+         <pubDate>Mon, 05 May 2025 03:09:48 -0000</pubDate>
+      </item>
+      <item>
          <title>146.185.239.10</title>
          <link>https://x.com/smica83/status/1919115114818503143</link>
          <description>@smica83 | ip | </description>
