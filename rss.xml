@@ -11,6 +11,76 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>7c4644e2bf70820a9f935c801d19664f</title>
+         <link>https://x.com/skocherhan/status/1919197707941421081</link>
+         <description>@skocherhan | md5 | #malware</description>
+         <guid isPermaLink="false">7c4644e2bf70820a9f935c801d19664f</guid>
+         <pubDate>Mon, 05 May 2025 01:09:25 -0000</pubDate>
+      </item>
+      <item>
+         <title>152.53.253.130</title>
+         <link>https://x.com/skocherhan/status/1919197707941421081</link>
+         <description>@skocherhan | ip | #malware</description>
+         <guid isPermaLink="false">152.53.253.130</guid>
+         <pubDate>Mon, 05 May 2025 01:09:25 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://152.53.253.130:5000/flood</title>
+         <link>https://x.com/skocherhan/status/1919197707941421081</link>
+         <description>@skocherhan | url | #malware</description>
+         <guid>http://152.53.253.130:5000/flood</guid>
+         <pubDate>Mon, 05 May 2025 01:09:25 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://152.53.253.130:80/rlserver</title>
+         <link>https://x.com/skocherhan/status/1919197707941421081</link>
+         <description>@skocherhan | url | #malware</description>
+         <guid>http://152.53.253.130:80/rlserver</guid>
+         <pubDate>Mon, 05 May 2025 01:09:25 -0000</pubDate>
+      </item>
+      <item>
+         <title>ba630fec83fe231603140c7b7abf3b10</title>
+         <link>https://x.com/skocherhan/status/1919195839504810004</link>
+         <description>@skocherhan | md5 | #AgentTesla</description>
+         <guid isPermaLink="false">ba630fec83fe231603140c7b7abf3b10</guid>
+         <pubDate>Mon, 05 May 2025 01:01:59 -0000</pubDate>
+      </item>
+      <item>
+         <title>d5447bbdf4529a91373d4c6fb78640f9287b21b5bdd20f655d0a2deb262bec15</title>
+         <link>https://x.com/byrne_emmy12099/status/1918643886869684526</link>
+         <description>@byrne_emmy12099 | sha256 | #APT</description>
+         <guid isPermaLink="false">d5447bbdf4529a91373d4c6fb78640f9287b21b5bdd20f655d0a2deb262bec15</guid>
+         <pubDate>Mon, 05 May 2025 00:54:36 -0000</pubDate>
+      </item>
+      <item>
+         <title>109.107.157.107</title>
+         <link>https://x.com/byrne_emmy12099/status/1918643886869684526</link>
+         <description>@byrne_emmy12099 | ip | #APT</description>
+         <guid isPermaLink="false">109.107.157.107</guid>
+         <pubDate>Mon, 05 May 2025 00:54:36 -0000</pubDate>
+      </item>
+      <item>
+         <title>b16bdf2c5147c519fbd32567fde493a3</title>
+         <link>https://x.com/skocherhan/status/1919193284972318995</link>
+         <description>@skocherhan | md5 | </description>
+         <guid isPermaLink="false">b16bdf2c5147c519fbd32567fde493a3</guid>
+         <pubDate>Mon, 05 May 2025 00:51:50 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://dead-transexuales.gl.at.ply.gg:62661</title>
+         <link>https://x.com/skocherhan/status/1919193284972318995</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://dead-transexuales.gl.at.ply.gg:62661</guid>
+         <pubDate>Mon, 05 May 2025 00:51:50 -0000</pubDate>
+      </item>
+      <item>
+         <title>dead-transexuales.gl.at.ply.gg:62661</title>
+         <link>https://x.com/skocherhan/status/1919193284972318995</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">dead-transexuales.gl.at.ply.gg:62661</guid>
+         <pubDate>Mon, 05 May 2025 00:51:50 -0000</pubDate>
+      </item>
+      <item>
          <title>be11fcefc33066b7e659bb727b4ef6a2</title>
          <link>https://x.com/skocherhan/status/1919190407168118837</link>
          <description>@skocherhan | md5 | </description>
